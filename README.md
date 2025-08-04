@@ -29,4 +29,6 @@ If your goal is to explore everything this darknet marketplace offers, make cert
 
 
 
-Update: url is now accessible and responsive
+
+
+Update:  Monday 04 August 2025
