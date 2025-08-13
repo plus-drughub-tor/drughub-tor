@@ -31,4 +31,6 @@ If your goal is to explore everything this darknet marketplace offers, make cert
 
 
 
-Update:  Monday 04 August 2025
+
+
+Update:  08/13/2025 Broken anchors
