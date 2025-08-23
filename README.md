@@ -35,4 +35,6 @@ If your goal is to explore everything this darknet marketplace offers, make cert
 
 
 
-Update:  08/19/2025 Link is now functioning and accessible
+
+
+Update:  Saturday 23 August 2025
