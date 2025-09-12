@@ -37,4 +37,6 @@ If your goal is to explore everything this darknet marketplace offers, make cert
 
 
 
-Update:  Saturday 23 August 2025
+
+
+Update:  09/12/2025 404 fixes
