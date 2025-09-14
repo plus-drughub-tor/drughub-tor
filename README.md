@@ -4,12 +4,12 @@ DrugHub: Market, a well-known darknet marketplace, is a destination for those se
 
 ## DrugHub: Market URL:
 
-http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion
+http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion
 
-[<img src="/image/runner.webp" width="200">](http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion)
+[<img src="/image/runner.webp" width="200">](http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion)
 
 
-<a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/image/browser.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/image/browser.webp" alt="image" style="max-width: 100%;"><a>
 
 This is an educational platform designed solely for informational purposes, offering a look into the dark web. We do not collect commissions or kickbacks from market affiliate links. We are not affiliated with any legal entities and do not endorse or promote illegal activities. Please use with caution and prioritize safety.
 
@@ -22,8 +22,8 @@ To protect yourself from potential scams, it’s essential to use only trusted D
 If your goal is to explore everything this darknet marketplace offers, make certain to prioritize your security and take the necessary precautions when browsing and making purchases.
 
 
-<a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/image/gray.webp" alt="image" style="max-width: 100%;"><a>  
-<a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/image/capture.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/image/gray.webp" alt="image" style="max-width: 100%;"><a>  
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/image/capture.webp" alt="image" style="max-width: 100%;"><a>
 
 
 
@@ -39,4 +39,6 @@ If your goal is to explore everything this darknet marketplace offers, make cert
 
 
 
-Update:  09/12/2025 404 fixes
+
+
+Update:  14 September TOR Link updates
